@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Demo1_WebElementHandling" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Demo2_PageObjectModel" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Demo2_PageObjectModel/features" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Demo2_PageObjectModel/features/steps" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Python_Behave_Demo" />
+    <orderEntry type="module" module-name="Python_RESTapiTesting_Demo" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>

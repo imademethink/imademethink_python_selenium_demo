@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b1818be-0531-4af7-a214-7c460ee04e1f" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Python_Selenium_Demo" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>http_request_url</find>
+      <find>http_request_url_query_param</find>
+      <find>raise</find>
+      <find>none</find>
+      <find>Following unexpected error response content type received</find>
+      <find>loads</find>
+      <find>Set POST api endpoint</find>
+      <find>Set HEADER param request content type as</find>
+      <find>json</find>
+      <find>new_first_name</find>
+      <find>new_last_name</find>
+      <find>Modify BODY form param first name</find>
+      <find>set quer</find>
+      <find>session</find>
+      <find>Perform setup for PUT request</find>
+      <find>DELETE_api_endpoint</find>
+      <find>http_request_body</find>
+      <find>activat</find>
+      <find>Modify BODY form param first name as</find>
+      <find>Set BODY form param using basic user</find>
+      <find>PUT_api_endpoint</find>
+      <find>Set BODY form param using basic user details</find>
+      <find>signup_emailid</find>
+      <find>Set Query param as</find>
+      <find>et basic user details as</find>
+      <find>tag</find>
+      <find>date</find>
+      <find>variable_123</find>
+      <find>global_var_check_123</find>
+      <find>force_string_123</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&quot;{url}&quot;')</replace>
+      <replace>listOfJsonFiles</replace>
+      <replace>chromeWebDriver</replace>
+      <replace>#   print</replace>
+      <replace>global_general_variables</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/features/MasterRunnerOutline.py" />
+        <option value="$PROJECT_DIR$/Demo1_WebElementHandling/features/FrameworkRunnerWithReporting.py" />
+        <option value="$PROJECT_DIR$/Demo1_WebElementHandling/features/steps/web_element_handling_utilities.py" />
+        <option value="$PROJECT_DIR$/Demo1_WebElementHandling/features/feature_files_folder/Demo_Web_Elements.feature" />
+        <option value="$PROJECT_DIR$/Demo2_PageObjectModel/features/handle_use_outline.py" />
+        <option value="$PROJECT_DIR$/Demo2_PageObjectModel/features/environment.py" />
+        <option value="$PROJECT_DIR$/../seleniumpjt/pageObjectPjt/pageobjsample1.py" />
+        <option value="$PROJECT_DIR$/Demo2_PageObjectModel/features/steps/PageObject_Aboutus.py" />
+        <option value="$PROJECT_DIR$/Demo2_PageObjectModel/features/steps/PageObject_Registeration.py" />
+        <option value="$PROJECT_DIR$/Demo2_PageObjectModel/features/steps/PageObject_Registration.py" />
+        <option value="$PROJECT_DIR$/Demo2_PageObjectModel/features/steps/PageObject_Home.py" />
+        <option value="$PROJECT_DIR$/Demo2_PageObjectModel/features/steps/utilities_custom_usage.py" />
+        <option value="$PROJECT_DIR$/../Python_RESTapiTesting_Demo/Demo01_CRUD/features/feature_files_folder/Demo_CRUD.feature" />
+        <option value="$PROJECT_DIR$/../Python_RESTapiTesting_Demo/Demo01_CRUD/features/steps/PageObject_AboutUs.py" />
+        <option value="$PROJECT_DIR$/../Python_RESTapiTesting_Demo/Demo01_CRUD/features/steps/step_impl_handle.py" />
+        <option value="$PROJECT_DIR$/../Python_RESTapiTesting_Demo/Demo01_SimpleRESTapiTesting/features/steps/utilities_custom_usage.py" />
+        <option value="$PROJECT_DIR$/../Python_RESTapiTesting_Demo/Demo01_SimpleRESTapiTesting/features/steps/utilities_variables.py" />
+        <option value="$PROJECT_DIR$/../Python_RESTapiTesting_Demo/Demo01_SimpleRESTapiTesting/features/CRUD_RunnerWithReporting.py" />
+        <option value="$PROJECT_DIR$/../Python_RESTapiTesting_Demo/Demo01_SimpleRESTapiTesting/features/steps/step_impl_handle.py" />
+        <option value="$PROJECT_DIR$/../Python_RESTapiTesting_Demo/Demo01_SimpleRESTapiTesting/features/steps/step_def_CRUD.py" />
+        <option value="$PROJECT_DIR$/../Python_Behave_Demo/Demo7_SimpleHTMLReporting/Reporting2_HTML/features/environment.py" />
+        <option value="$PROJECT_DIR$/../Python_Behave_Demo/Demo7_SimpleHTMLReporting/Reporting2_HTML/features/feature_file_folder/Scenarios_tagged.feature" />
+        <option value="$PROJECT_DIR$/../Python_Behave_Demo/Demo7_SimpleHTMLReporting/Reporting2_HTML/features/steps/step_definition_for_tags.py" />
+        <option value="$PROJECT_DIR$/../Python_Behave_Demo/Demo1_GettingStarted/Sample2/features/steps/step_definition_1.py" />
+        <option value="$PROJECT_DIR$/../Python_Behave_Demo/Demo1_GettingStarted/Sample2/features/steps/step_definition_3.py" />
+        <option value="$PROJECT_DIR$/../Python_Behave_Demo/Demo3_BeforeAfterDecorators/features/environment.py" />
+        <option value="$PROJECT_DIR$/../Python_Behave_Demo/Demo3_BeforeAfterDecorators/features/steps/step_def_param_parsing.py" />
+        <option value="$PROJECT_DIR$/../Python_Behave_Demo/Demo4_ProgramRunner/features/behave_parameter_passing.feature" />
+        <option value="$PROJECT_DIR$/../Python_Behave_Demo/Demo7_SimpleHTMLReporting/Reporting1_JSON/features/steps/step_definition_for_tags.py" />
+        <option value="$PROJECT_DIR$/../Python_Behave_Demo/Demo7_SimpleHTMLReporting/Reporting1_JSON/features/reporting_folder_json/59b0f472-39ed-4b3f-9710-cd25f258d0f9-result.json" />
+        <option value="$PROJECT_DIR$/../Python_Behave_Demo/Demo7_SimpleHTMLReporting/Reporting2_HTML/features/RunnerWithReporting_HTML.py" />
+        <option value="$PROJECT_DIR$/../Python_Behave_Demo/Demo1_GettingStarted/Sample1/steps/search_product_step_definition.py" />
+        <option value="$PROJECT_DIR$/../Python_Behave_Demo/Demo1_GettingStarted/Sample1/search_product.feature" />
+        <option value="$PROJECT_DIR$/../Python_Behave_Demo/Demo2_ParameterPassing/features/steps/step_def_param_parsing.py" />
+        <option value="$PROJECT_DIR$/../Python_Behave_Demo/Demo2_ParameterPassing/features/behave_parameter_passing.feature" />
+        <option value="$PROJECT_DIR$/../Python_Behave_Demo/Demo4_ProgramRunner/PythonicRunnerExample.py" />
+        <option value="$PROJECT_DIR$/../Python_Behave_Demo/Demo5_RuntimeOptions/features/PythonicRunnerWithOptions.py" />
+        <option value="$PROJECT_DIR$/../Python_Behave_Demo/Demo5_RuntimeOptions/features/PythonicRunnerWithOptions2.py" />
+        <option value="$PROJECT_DIR$/../Python_Behave_Demo/Demo6_Tags/features/RunnerForTags.py" />
+        <option value="$PROJECT_DIR$/Demo1_WebElementHandling/features/steps/step_impl_web_element_handling.py" />
+        <option value="$PROJECT_DIR$/Demo1_WebElementHandling/features/steps/step_def_web_element_handling.py" />
+        <option value="$PROJECT_DIR$/Demo1_WebElementHandling/features/FrameworkRunner.py" />
+        <option value="$PROJECT_DIR$/Demo2_PageObjectModel/features/feature_files_folder/DemoPageObjectModelWebsite.feature" />
+        <option value="$PROJECT_DIR$/Demo2_PageObjectModel/features/FrameworkRunnerWithReporting.py" />
+        <option value="$PROJECT_DIR$/Demo2_PageObjectModel/features/steps/PageObject_AboutUs.py" />
+        <option value="$PROJECT_DIR$/Demo2_PageObjectModel/features/steps/PageObject_Admin.py" />
+        <option value="$PROJECT_DIR$/Demo2_PageObjectModel/features/steps/step_def_page_objects.py" />
+        <option value="$PROJECT_DIR$/Demo2_PageObjectModel/features/steps/step_impl_handle.py" />
+        <option value="$PROJECT_DIR$/../Python_RESTapiTesting_Demo/Demo01_SimpleRESTapiTesting/features/feature_files_folder/Simple_REST_API_Testing.feature" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-2" />
+    <option name="y" value="30" />
+    <option name="width" value="1177" />
+    <option name="height" value="738" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Buildout</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyUnresolvedReferencesInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Python_Selenium_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_RESTapiTesting_Demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Selenium_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_RESTapiTesting_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="Demo01_SimpleRESTapiTesting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Selenium_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_RESTapiTesting_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="Demo01_SimpleRESTapiTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Selenium_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_RESTapiTesting_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="Demo01_SimpleRESTapiTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+              <item name="feature_files_folder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Selenium_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_RESTapiTesting_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="Demo01_SimpleRESTapiTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+              <item name="reporting_folder_json_html" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Selenium_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_RESTapiTesting_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="Demo01_SimpleRESTapiTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+              <item name="steps" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Demo1_WebElementHandling/features/FrameworkRunner.py" />
+    <property name="settings.editor.splitter.proportion" value="0.22139303" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="PythonSelenium_Demo" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="PythonSelenium_Demo" />
+        <option name="myAddSourceRoots" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Automation_project\Python_Projects\Python_Behave_Demo\Demo7_SimpleHTMLReporting\Reporting2_HTML\features" />
+      <recent name="D:\Automation_project\Python_Projects\Python_RESTapiTesting_Demo\Demo01_CRUD\features\feature_files_folder" />
+      <recent name="D:\Automation_project\Python_Projects\Python_RESTapiTesting_Demo" />
+      <recent name="D:\Automation_project\Python_Projects\Python_RESTapiTesting_Demo\Demo_CRUD" />
+      <recent name="D:\Automation_project\Python_Projects\PythonSelenium_Demo\Demo2_PageObjectModel\features\steps" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Automation_project\Python_Projects\PythonSelenium_Demo\Demo1_WebElementHandling\features\utilities" />
+      <recent name="D:\Automation_project\Python_Projects\PythonSelenium_Demo\PageObjectModel\features\feature_files_folder" />
+      <recent name="D:\Automation_project\Python_Projects\PythonSelenium_Demo\Demo1_WebElementHandling\features\feature_files_folder" />
+      <recent name="D:\Automation_project\Python_Projects\PythonSelenium_Demo\PageObjectModel" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.CRUD_RunnerWithReporting">
+    <configuration name="CRUD_RunnerWithReporting" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python_RESTapiTesting_Demo/Demo01_SimpleRESTapiTesting/features" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python_RESTapiTesting_Demo" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python_RESTapiTesting_Demo/Demo01_SimpleRESTapiTesting/features/CRUD_RunnerWithReporting.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="FrameworkRunner" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Demo1_WebElementHandling/features" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python_Selenium_Demo" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Demo1_WebElementHandling/features/FrameworkRunner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="FrameworkRunnerWithReporting" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Demo2_PageObjectModel/features" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python_Selenium_Demo" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Demo2_PageObjectModel/features/FrameworkRunnerWithReporting.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="RunnerWithReporting_HTML" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python_Behave_Demo/Demo7_SimpleHTMLReporting/Reporting2_HTML/features" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python_Behave_Demo" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python_Behave_Demo/Demo7_SimpleHTMLReporting/Reporting2_HTML/features/RunnerWithReporting_HTML.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="RunnerWithReporting_JSON" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python_Behave_Demo/Demo7_SimpleHTMLReporting/Reporting1_JSON/features" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python_Behave_Demo" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python_Behave_Demo/Demo7_SimpleHTMLReporting/Reporting1_JSON/features/RunnerWithReporting_JSON.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonSelenium_Demo" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonSelenium_Demo" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonSelenium_Demo" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonSelenium_Demo" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonSelenium_Demo" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonSelenium_Demo" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.RunnerWithReporting_JSON" />
+      <item index="1" class="java.lang.String" itemvalue="Python.RunnerWithReporting_HTML" />
+      <item index="2" class="java.lang.String" itemvalue="Python.FrameworkRunner" />
+      <item index="3" class="java.lang.String" itemvalue="Python.FrameworkRunnerWithReporting" />
+      <item index="4" class="java.lang.String" itemvalue="Python.CRUD_RunnerWithReporting" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.CRUD_RunnerWithReporting" />
+        <item index="1" class="java.lang.String" itemvalue="Python.FrameworkRunnerWithReporting" />
+        <item index="2" class="java.lang.String" itemvalue="Python.FrameworkRunner" />
+        <item index="3" class="java.lang.String" itemvalue="Python.RunnerWithReporting_HTML" />
+        <item index="4" class="java.lang.String" itemvalue="Python.RunnerWithReporting_JSON" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b1818be-0531-4af7-a214-7c460ee04e1f" name="Default" comment="" />
+      <created>1506386165131</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1506386165131</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-2" y="30" width="1177" height="738" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26278028" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901135" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294509" sideWeight="0.50292397" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901135" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8071313" sideWeight="0.49707603" order="2" side_tool="false" content_ui="tabs" x="29" y="192" width="1197" height="414" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5299838" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32999164" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39767054" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.327787" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4309484" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12144054" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.327787" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39767054" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.ini" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../Python_Behave_Demo/Demo1_GettingStarted/Sample2/features/behave_keywords2.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="44" lean-forward="false" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_Behave_Demo/Demo1_GettingStarted/Sample2/features/behave_keywords3.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="38" lean-forward="false" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_Behave_Demo/Demo1_GettingStarted/Sample2/features/steps/step_definition_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_Behave_Demo/Demo2_ParameterPassing/features/steps/step_def_param_parsing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_Behave_Demo/Demo2_ParameterPassing/features/behave_parameter_passing.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_Behave_Demo/Demo3_BeforeAfterDecorators/features/behave_decorators_2.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_Behave_Demo/Demo3_BeforeAfterDecorators/features/behave_decorators_1.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="41" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_Behave_Demo/Demo3_BeforeAfterDecorators/features/environment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_Behave_Demo/Demo3_BeforeAfterDecorators/features/steps/step_def_param_parsing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_Behave_Demo/Demo4_ProgramRunner/features/steps/step_def_param_parsing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="47" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_Behave_Demo/Demo4_ProgramRunner/features/behave_parameter_passing.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="31" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_Behave_Demo/Demo4_ProgramRunner/PythonicRunnerExample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_Behave_Demo/Demo5_RuntimeOptions/features/feature_files_folder/feature1/feature1scenarios.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_Behave_Demo/Demo5_RuntimeOptions/features/feature_files_folder/feature2/feature2scenarios.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_Behave_Demo/Demo5_RuntimeOptions/features/feature_files_folder/behave_keywords2.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_Behave_Demo/Demo5_RuntimeOptions/features/steps/step_definition_4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_Behave_Demo/Demo5_RuntimeOptions/features/steps/step_definition_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_Behave_Demo/Demo5_RuntimeOptions/features/steps/step_definition_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_Behave_Demo/Demo5_RuntimeOptions/features/steps/step_definition_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_Behave_Demo/Demo5_RuntimeOptions/features/feature_files_folder/behave_keywords1.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_Behave_Demo/Demo5_RuntimeOptions/features/feature_files_folder/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_Behave_Demo/Demo5_RuntimeOptions/features/PythonicRunnerWithOptions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_Behave_Demo/Demo5_RuntimeOptions/features/behave.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_Behave_Demo/Demo5_RuntimeOptions/features/PythonicRunnerWithOptions2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_Behave_Demo/Demo6_Tags/features/RunnerForTags.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_Behave_Demo/Demo6_Tags/features/feature_file_folder/Scenarios_tagged.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_Behave_Demo/Demo7_SimpleHTMLReporting/Reporting1_JSON/features/reporting_folder_json/8c1891dd-71d2-4acf-b202-fdb7b4c5bd4f-result.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_Behave_Demo/Demo7_SimpleHTMLReporting/Reporting1_JSON/features/reporting_folder_json/2642791c-856f-4e88-a769-c33d506e77db-result.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_Behave_Demo/Demo7_SimpleHTMLReporting/Reporting1_JSON/features/reporting_folder_json/25654de1-5bfd-4d1d-a64f-8f8da2a0fcf9-result.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_Behave_Demo/Demo7_SimpleHTMLReporting/Reporting1_JSON/features/reporting_folder_json/38d3a41f-153b-4c16-aa0b-94892efe1d2d-result.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_Behave_Demo/Demo7_SimpleHTMLReporting/Reporting1_JSON/features/RunnerWithReporting_JSON.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="67" lean-forward="false" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_Behave_Demo/Demo7_SimpleHTMLReporting/Reporting1_JSON/features/steps/step_definition_for_tags.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="24" column="60" lean-forward="true" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_Behave_Demo/Demo7_SimpleHTMLReporting/Reporting2_HTML/features/RunnerWithReporting_HTML.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo1_WebElementHandling/features/feature_files_folder/Demo_Web_Elements.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo1_WebElementHandling/features/FrameworkRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo1_WebElementHandling/features/steps/step_def_web_element_handling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo1_WebElementHandling/features/steps/step_impl_web_element_handling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="188" column="37" lean-forward="false" selection-start-line="188" selection-start-column="37" selection-end-line="188" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo2_PageObjectModel/features/steps/PageObject_Admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-107">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo2_PageObjectModel/features/steps/utilities_custom_usage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="63" lean-forward="false" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo2_PageObjectModel/features/feature_files_folder/Domain01_Airlines/Airlines_AmericanAirlines__feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2268">
+          <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo2_PageObjectModel/features/feature_files_folder/Domain01_Airlines/Airlines_GoAir__feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-756">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo2_PageObjectModel/features/steps/PageObject_AboutUs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="27" column="40" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo2_PageObjectModel/features/steps/PageObject_Home.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo2_PageObjectModel/features/steps/step_def_page_objects.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo2_PageObjectModel/features/steps/PageObject_Registration.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="23" column="110" lean-forward="false" selection-start-line="23" selection-start-column="110" selection-end-line="23" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo2_PageObjectModel/features/steps/step_impl_handle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo2_PageObjectModel/features/FrameworkRunnerWithReporting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-653">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo2_PageObjectModel/features/feature_files_folder/DemoPageObjectModelWebsite.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_RESTapiTesting_Demo/Demo01_SimpleRESTapiTesting/features/feature_files_folder/Simple_REST_API_Testing.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_RESTapiTesting_Demo/Demo01_SimpleRESTapiTesting/features/CRUD_RunnerWithReporting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Python_RESTapiTesting_Demo/Demo01_SimpleRESTapiTesting/features/steps/step_def_CRUD.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="e#43#85#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
